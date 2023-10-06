@@ -1,0 +1,6 @@
+Recursion calls itself repeatedly
+Mandatory 3 steps to ensure it works
+  1. Recursive case
+  2. Base case or exit criteria
+  3. unintentional case -- contraint
+
